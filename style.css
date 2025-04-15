@@ -20,7 +20,8 @@ form{
     padding: .3rem .5rem;
     border-radius: .5rem;
     max-width: min-content;
-    background-color: aqua;
+    background-color: #374b4b;
+    color: aliceblue;
     border: 1px solid;
     cursor: pointer;
 }
